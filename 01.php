@@ -1,4 +1,4 @@
-// 是否推荐 -------------------------------------------------------
+<title>是否推荐</title>-------------------------------------------------------
 // html
 <td style="cursor: pointer" id="{$val.id}" istop="{$val.is_top}" class="arttop">{if $val.is_top == 1}<span class="btn-success">是</span>{else /}<span class="btn-darkorange">否</span>{/if}</td>
 // 是否推荐修改
